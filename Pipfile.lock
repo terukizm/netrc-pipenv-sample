@@ -1,0 +1,25 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "b97ed776eb7abbb4aa1101f91f5814638aa347ee8aac417c8dc4713f4f9d6859"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "myprivatelibsamplepy": {
+            "git": "https://github.com/terukizm/MyPrivateLibSamplePy.git",
+            "ref": "071b8d636c1300699d0e86b81db7e3a3493848b0"
+        }
+    },
+    "develop": {}
+}
